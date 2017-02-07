@@ -1,3 +1,3 @@
 <?php
 
-$nomedevariavel;
+$nome_de_variavel;
