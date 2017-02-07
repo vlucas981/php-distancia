@@ -29,3 +29,5 @@ $variavel = null;
 //Imprime na tela o tipo de dado da variavel
 echo gettype($variavel);
 
+//Serve para testar se a variavel é o tipo
+is_array($variavel);
