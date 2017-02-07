@@ -25,3 +25,7 @@ $variavel = mysql_connect('localhost', 'root');
 
 // nulo
 $variavel = null;
+
+//Imprime na tela o tipo de dado da variavel
+echo gettype($variavel);
+
